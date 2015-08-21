@@ -4,10 +4,6 @@ A standalone combat system built on the Mudlet client that assists you with the 
 Best of all, it's free, open-source, and reliable.
 
 ### Getting Started
-* Introduction
-* Setting Up
-
-### Documentation
 The [Wiki](https://github.com/obliviondev/oblivion-mudlet/wiki) contains all the information you'll need to work with system. If you would like, you can contribute to the Wiki and source code directly here on Github.
 
 ### Reporting Issues
