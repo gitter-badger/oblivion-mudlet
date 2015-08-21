@@ -1,2 +1,2 @@
 # oblivion-mudlet
-Avalon standalone curing system, in Lua.
+Avalon standalone curing system for Mudlet.
